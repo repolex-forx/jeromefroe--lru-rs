@@ -51,7 +51,9 @@
           "githubUrl": "https://github.com/neoeinstein/stats_alloc",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/13321a9f96059b2355aa3697c2a1613b16fd83e5/chunk-001.nq.gz",
+      "dep": "dep/13321a9f96059b2355aa3697c2a1613b16fd83e5.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
