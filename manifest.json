@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "jeromefroe",
+  "repo": "lru-rs",
+  "versions": [
+    {
+      "commit": "13321a9f96059b2355aa3697c2a1613b16fd83e5",
+      "parsed_at": "2026-11-22T10:46:32.160045+00:00",
+      "tag": "0.17.0",
+      "filetree": "filetree/13321a9f96059b2355aa3697c2a1613b16fd83e5.nq.gz",
+      "blobs": [
+        "blob/b26e42dabfcba6bc583f1dcc8659bdba08d0de15.nq.gz",
+        "blob/32bce596383a0f01177cffdbb1b95952b3c97022.nq.gz",
+        "blob/0b3d7a86b1b0ebbdad43d724a3a08b726fa6d4c8.nq.gz",
+        "blob/42497dac55c4a2111664bd1420d37022c612cac6.nq.gz",
+        "blob/cf1d4b963fa6ec194f07a62d87d9e513d3a4078f.nq.gz",
+        "blob/9cd623b8f0751394040245b079c91d93470b7d16.nq.gz",
+        "blob/fee5c140a18f279575c8cd979b798fcb022a7745.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
