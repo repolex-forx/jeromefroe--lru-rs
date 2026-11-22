@@ -19,6 +19,38 @@
       ],
       "ast": [
         "aggregate/ast/13321a9f96059b2355aa3697c2a1613b16fd83e5/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/13321a9f96059b2355aa3697c2a1613b16fd83e5.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "hashbrown",
+          "ecosystem": "CARGO",
+          "version": "0.17.0",
+          "githubOrg": "rust-lang",
+          "githubRepo": "hashbrown",
+          "githubCommit": "d290456969d0e89e6799d8a673c95112962b70ec",
+          "githubTag": "v0.17.0",
+          "githubUrl": "https://github.com/rust-lang/hashbrown",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "scoped_threadpool",
+          "ecosystem": "CARGO",
+          "version": "0.1.*",
+          "githubOrg": "Kimundi",
+          "githubRepo": "scoped-threadpool-rs",
+          "githubUrl": "https://github.com/Kimundi/scoped-threadpool-rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "stats_alloc",
+          "ecosystem": "CARGO",
+          "version": "0.1.*",
+          "githubOrg": "neoeinstein",
+          "githubRepo": "stats_alloc",
+          "githubUrl": "https://github.com/neoeinstein/stats_alloc",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
